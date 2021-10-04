@@ -1,1 +1,1 @@
-export const APIURL='https://booksdb-deploy.herokuapp.com/'
+export const APIURL='https://booksdb-deploy.herokuapp.com'
